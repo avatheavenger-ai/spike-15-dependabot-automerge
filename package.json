@@ -1,0 +1,7 @@
+{
+  "name": "spike-15",
+  "private": true,
+  "dependencies": {
+    "is-number": "6.0.0"
+  }
+}
